@@ -6,6 +6,7 @@
         <title>Search Items</title>
         <link rel="stylesheet" type="text/css" href="style.css">
 </head>
+<body>
 <footer>
   <div class="footerContainer">
     <!-- About Section -->
