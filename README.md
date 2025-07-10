@@ -1,4 +1,4 @@
-# 🧰 Toolbox App
+# 🧰 Toolbox
 
 A responsive, full-stack inventory management system built for organizing electronics/tools with visual references and datasheet support.
 
